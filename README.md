@@ -41,11 +41,11 @@ Part 2 (Installation)
 Install / Enable IIS in Windows WITH
 - CGI and Common HTTP Features
 - World Wide Web Services -> Application Development Features ->
-        - [X] CGI
-        - [X] Common HTTP Features
+     - [X] CGI
+     - [X] Common HTTP Features
 - AND IIS Management Console
 -Internet Information Services -> Web Management Tools -> IIS Management Console
-	- [X] IIS Management Console
+     - [X] IIS Management Console
 
 
 From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
